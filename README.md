@@ -6,8 +6,10 @@ I'm Neal Guarddin. You can call me Neal. I'm a computer science student at Unive
 - linkedin.com/neal-guarddin
 - instagram.com/guarddin29
 
-My portofolio:
+😄 My portofolio:
 https://cerebrumcoder.github.io/neal.guarddin
+
+🌱 Right now im currently learning git and github deeper from github.com
 <!--
 **CerebrumCoder/CerebrumCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
