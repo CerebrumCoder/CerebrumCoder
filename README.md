@@ -11,10 +11,8 @@ https://cerebrumcoder.github.io/neal.guarddin
 
 🌱 Right now im currently learning git and github deeper from github.com
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CerebrumCoder&layout=compact&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CerebrumCoder)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CerebrumCoder&layout=compact)
 
 <!--
 **CerebrumCoder/CerebrumCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
