@@ -10,6 +10,9 @@ I'm Neal Guarddin. You can call me Neal. I'm a computer science student at Unive
 https://cerebrumcoder.github.io/neal.guarddin
 
 🌱 Right now im currently learning git and github deeper from github.com
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CerebrumCoder)
+
 <!--
 **CerebrumCoder/CerebrumCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
