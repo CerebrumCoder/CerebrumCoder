@@ -1,30 +1,56 @@
-## Hi there 👋
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi there, I'm Neal Guarddin 👋</h1>
 
-I'm Neal Guarddin. You can call me Neal. I'm a computer science student at Universitas Indonesia. My campus located in Depok, West Java, Indonesia. 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2EA043&center=true&vCenter=true&width=650&lines=Computer+Science+Student+at+Universitas+Indonesia;Most+confident+with+Java%2C+Dart%2C+and+Django;Learning+Git+%26+GitHub+more+deeply;Building+my+skills+one+project+at+a+time" alt="Typing SVG" />
+</p>
 
-📫 If you want to reach me:
-- linkedin.com/neal-guarddin
-- instagram.com/guarddin29
+<p align="center">
+  <a href="https://www.linkedin.com/in/neal-guarddin/">LinkedIn</a> •
+  <a href="https://www.instagram.com/guarddin29/">Instagram</a> •
+  <a href="https://cerebrumcoder.github.io/neal.guarddin">Portfolio</a>
+</p>
 
-😄 My portofolio:
-https://cerebrumcoder.github.io/neal.guarddin
+---
 
-🌱 Right now im currently learning git and github deeper from github.com
+### 👨‍💻 About Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CerebrumCoder&theme=gotham&layout=compact)
-![Neal's GitHub stats](https://github-readme-stats.vercel.app/api?username=CerebrumCoder&show_icons=true&theme=gotham&hide=stars,issues)
+- 🎓 Computer Science student at **Universitas Indonesia**
+- Teaching Assistant at **Universitas Indonesia** in International Class
+- 📍 Based in **Depok, West Java, Indonesia**
+- 💚 Interested in software engineering, backend development, and web development
+- 🌱 Currently learning **Git** and **GitHub** more deeply
+- 🚀 Always trying to improve by building practical projects and writing cleaner code
 
-<!--
-**CerebrumCoder/CerebrumCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,dart,html,css,js,jquery,git,spring,django,bootstrap,ubuntu,figma&theme=dark&perline=7" alt="My Skills" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 What I'm Comfortable With
+
+- **Most confident:** Java, Dart, Django
+- **Also working with:** Python, Spring Boot, HTML, CSS, JavaScript, jQuery, Bootstrap 5, Git, Ubuntu workspace management, Unit Testing, and Figma
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CerebrumCoder&show_icons=true&hide=stars,issues&rank_icon=percentile&theme=transparent&title_color=7ee787&text_color=c9d1d9&icon_color=2ea043&border_color=30363d" alt="Neal's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CerebrumCoder&layout=compact&theme=transparent&title_color=7ee787&text_color=c9d1d9&border_color=30363d" alt="Top languages" />
+</p>
+
+### 🌿 Current Focus
+
+- Strengthening my fundamentals in software engineering
+- Writing cleaner backend code with Java, Spring Boot, and Django
+- Improving collaboration workflow with Git and GitHub
+- Growing my portfolio step by step
+
+---
+
+<p align="center">
+  Thanks for visiting my profile!
+</p>
