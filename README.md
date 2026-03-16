@@ -16,10 +16,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 Computer Science student at **Universitas Indonesia**
-- Teaching Assistant at **Universitas Indonesia** in International Class
+- 👨‍🏫 Teaching Assistant at **Universitas Indonesia** in **International Class**
 - 📍 Based in **Depok, West Java, Indonesia**
 - 💚 Interested in software engineering, backend development, and web development
-- 🌱 Currently learning **Git** and **GitHub** more deeply
 - 🚀 Always trying to improve by building practical projects and writing cleaner code
 
 ### 🛠️ Tech Stack
@@ -32,8 +31,8 @@
 
 ### 📌 What I'm Comfortable With
 
-- **Most confident:** Java, Dart, Django
-- **Also working with:** Python, Spring Boot, HTML, CSS, JavaScript, jQuery, Bootstrap 5, Git, Ubuntu workspace management, Unit Testing, and Figma
+- **Most confident:** Java, Dart, Django, Bootstrap 5, Git, Unit Testing
+- **Also working with:** Python, Spring Boot, HTML, CSS, JavaScript, jQuery, Ubuntu workspace management, and Figma
 
 ### 📊 GitHub Stats
 
