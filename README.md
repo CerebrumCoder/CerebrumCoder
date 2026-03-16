@@ -36,10 +36,26 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CerebrumCoder&show_icons=true&hide=stars,issues&rank_icon=percentile&theme=transparent&title_color=7ee787&text_color=c9d1d9&icon_color=2ea043&border_color=30363d" alt="Neal's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CerebrumCoder&layout=compact&theme=transparent&title_color=7ee787&text_color=c9d1d9&border_color=30363d" alt="Top languages" />
-</p>
+### 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <img
+        height="170"
+        src="https://github-readme-stats.vercel.app/api?username=CerebrumCoder&show_icons=true&hide=stars,issues&rank_icon=default&theme=transparent&title_color=7ee787&text_color=c9d1d9&icon_color=2ea043&border_color=30363d&card_width=420"
+        alt="Neal's GitHub stats"
+      />
+    </td>
+    <td>
+      <img
+        height="170"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CerebrumCoder&layout=compact&theme=transparent&title_color=7ee787&text_color=c9d1d9&border_color=30363d&card_width=320"
+        alt="Top languages"
+      />
+    </td>
+  </tr>
+</table>
 
 ### 🌿 Current Focus
 
