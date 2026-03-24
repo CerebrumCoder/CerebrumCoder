@@ -36,7 +36,7 @@
 
 ### 📊 GitHub Stats
 
-<table align="center border-none">
+<table align="center">
   <tr>
     <td>
       <img
