@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Neal Guarddin 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=66D0BC&center=true&vCenter=true&width=650&lines=Computer+Science+Student+at+Universitas+Indonesia;Most+confident+with+Java%2C+Dart%2C+and+Django;Learning+Git+%26+GitHub+more+deeply;Building+my+skills+one+project+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Computer+Science+Student+at+Universitas+Indonesia;Most+confident+with+Java%2C+Dart%2C+and+Django;Learning+Git+%26+GitHub+more+deeply;Building+my+skills+one+project+at+a+time" alt="Typing SVG" />
 </p>
 
 <p align="center">
