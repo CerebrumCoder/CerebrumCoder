@@ -36,19 +36,19 @@
 
 ### 📊 GitHub Stats
 
-<table align="center">
+<table align="center border-none">
   <tr>
     <td>
       <img
         height="170"
-        src="https://github-readme-stats.vercel.app/api?username=CerebrumCoder&show_icons=true&hide=stars,issues&theme=transparent&title_color=7ee787&text_color=66D0BC&icon_color=2ea043&border_color=66D0BC&card_width=420"
+        src="https://github-readme-stats.vercel.app/api?username=CerebrumCoder&show_icons=true&hide=stars,issues&theme=transparent&title_color=66D0BC&text_color=66D0BC&icon_color=2ea043&border_color=66D0BC&card_width=420"
         alt="Neal's GitHub stats"
       />
     </td>
     <td>
       <img
         height="170"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CerebrumCoder&layout=donut&theme=transparent&title_color=7ee787&text_color=66D0BC&border_color=66D0BC"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CerebrumCoder&layout=donut&theme=transparent&title_color=66D0BC&text_color=66D0BC&border_color=66D0BC"
         alt="Top languages"
       />
     </td>
